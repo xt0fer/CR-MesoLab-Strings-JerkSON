@@ -1,4 +1,4 @@
-##WELCOME TO THE PainfullAfternoon (Hurtlocker)
+## WELCOME TO THE PainfullAfternoon (Hurtlocker)
 
 By this time you should have been introduced to Java Strings, Exceptions, Unit Testing, and Regex.
 
@@ -16,7 +16,7 @@ In JerkSON Key and Value could be seperated by using a any of the following (:, 
 
 In Json Key and Value pairs are seperated by a ',' in JerkSON its '##'
 
-##Your Task
+## Your Task
 Its your job to build a JerkSON data parser, that is able to read in the raw data , and output a string formated list that resembles (outputFormat.txt) 
 
 There are some things to look out for.... If you haven't figured it out by now Tariq has many wonderful qualities, spelling isn't one of them, so Words may not be spelled correctly. You need to decipher what Tariq was trying to spell using pattern matching.
@@ -34,7 +34,7 @@ Its not guranteed that every Key will have a Value, and every Value will have a 
 
 you may see something like this
 
-Name:Milk;Price:3.23;type:;expiration:1/24/2016##
+`Name:Milk;Price:3.23;type:;expiration:1/24/2016##`
 
 Notice how TYPE has a key but no Value.... if you try and parse this into an object your program could crash.
 
