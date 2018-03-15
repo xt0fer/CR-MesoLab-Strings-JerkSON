@@ -6,7 +6,7 @@ By this time you should have been introduced to Java Strings, Exceptions, Unit T
 
 In this project you will find a file in the resource folder called RawData.txt. It was supposed to be a grocery list formated in JSON, but after a huge defeat this weekend in a game called Munchkin, Tariq, your fearless, yet petty, leader decided to reformat it in his own Object Notation. JerkSON... you are welcome.
 
-##JerkSON Format
+## JerkSON Format
 
 Just like Json, JerkSON is supposed to be a Key Value Pair data store.
 
@@ -44,5 +44,5 @@ You will need to handle your exceptions!
 I also expect you to report on how many exceptions you saw while parsing the data.
 
 
-GOOD LUCK ZIPCODERS!!!! May the Odds be ever in your favor!!!!
+# GOOD LUCK ZIPCODERS!!!! May the Odds be ever in your favor!!!!
 
